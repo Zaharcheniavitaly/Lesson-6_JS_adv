@@ -2,7 +2,7 @@
 
 //Отправляем свои данные с помощью $emit в верхний компонент, а вниз с помощью props
 
-const API = 'https://-raw.githubusercontent.com/GeekBrainsTutorial/online-store-api/master/responses';
+const API = 'https://raw.githubusercontent.com/GeekBrainsTutorial/online-store-api/master/responses';
 
 
 
