@@ -1,0 +1,19 @@
+{
+  "name": "lesson-6_js_adv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zaharcheniavitaly/Lesson-6_JS_adv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zaharcheniavitaly/Lesson-6_JS_adv/issues"
+  },
+  "homepage": "https://github.com/Zaharcheniavitaly/Lesson-6_JS_adv#readme"
+}
