@@ -36,7 +36,7 @@
 			<products :products="filtered" 
 			:img="imgCatalog" @add-product="addProduct"></products>
 
-			<error-comp></error-comp>
+			<error-comp v-show="$root.error"></error-comp>
 		</main>
 
 		
